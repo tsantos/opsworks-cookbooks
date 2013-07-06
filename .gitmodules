@@ -1,6 +1,6 @@
-[submodule "neo4j-opsworks"]
-	path = neo4j-opsworks
-	url = http://github.com/jtescher/neo4j
 [submodule "htop"]
 	path = htop
 	url = http://github.com/phlipper/chef-htop
+[submodule "neo4j"]
+	path = neo4j
+	url = https://github.com/michaelklishin/neo4j-server-chef-cookbook
