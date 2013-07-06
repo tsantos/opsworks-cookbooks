@@ -1,0 +1,3 @@
+[submodule "neo4j-opsworks"]
+	path = neo4j-opsworks
+	url = http://github.com/jtescher/neo4j
