@@ -16,3 +16,6 @@
 [submodule "windows"]
 	path = windows
 	url = http://github.com/opscode-cookbooks/windows.git
+[submodule "chef_handler"]
+	path = chef_handler
+	url = http://github.com/opscode-cookbooks/chef_handler.git
