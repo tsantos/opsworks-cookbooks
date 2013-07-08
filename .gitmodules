@@ -7,3 +7,6 @@
 [submodule "users"]
 	path = users
 	url = http://github.com/opscode-cookbooks/users.git
+[submodule "java"]
+	path = java
+	url = http://github.com/opscode-cookbooks/java.git
