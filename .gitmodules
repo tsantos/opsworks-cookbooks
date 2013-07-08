@@ -13,3 +13,6 @@
 [submodule "emacs"]
 	path = emacs
 	url = http://github.com/opscode-cookbooks/emacs
+[submodule "windows"]
+	path = windows
+	url = http://github.com/opscode-cookbooks/windows.git
