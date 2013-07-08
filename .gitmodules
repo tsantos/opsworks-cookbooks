@@ -10,3 +10,6 @@
 [submodule "java"]
 	path = java
 	url = http://github.com/opscode-cookbooks/java.git
+[submodule "emacs"]
+	path = emacs
+	url = http://github.com/opscode-cookbooks/emacs
