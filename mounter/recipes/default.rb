@@ -12,6 +12,6 @@ node['mounter']['specs'].each do |spec|
   mount path do
     device dev
     fstype type
-    action :mount
+    action :enable
   end
 end
