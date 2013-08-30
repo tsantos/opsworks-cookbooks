@@ -7,10 +7,11 @@
 # All rights reserved - Do Not Redistribute
 #
 
-node['mounter']['pairs'].each do |pair|
-  path, dev = pair
+node['mounter']['specs'].each do |spec|
+  path, dev, type = spec
   mount path do
     device dev
+    fstype type
     action :mount
   end
 end
