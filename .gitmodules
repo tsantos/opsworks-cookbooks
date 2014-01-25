@@ -34,3 +34,6 @@
 [submodule "yum"]
 	path = yum
 	url = https://github.com/opscode-cookbooks/yum.git
+[submodule "npm"]
+	path = npm
+	url = https://github.com/balbeko/chef-npm.git
