@@ -37,3 +37,6 @@
 [submodule "npm"]
 	path = npm
 	url = https://github.com/balbeko/chef-npm.git
+[submodule "apache2"]
+	path = apache2
+	url = https://github.com/opscode-cookbooks/apache2.git
