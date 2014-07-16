@@ -40,3 +40,6 @@
 [submodule "apache2"]
 	path = apache2
 	url = https://github.com/opscode-cookbooks/apache2.git
+[submodule "yum-epel"]
+	path = yum-epel
+	url = https://github.com/opscode-cookbooks/yum-epel.git
