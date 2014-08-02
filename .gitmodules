@@ -43,3 +43,6 @@
 [submodule "yum-epel"]
 	path = yum-epel
 	url = https://github.com/opscode-cookbooks/yum-epel.git
+[submodule "chef-unzip"]
+	path = chef-unzip
+	url = https://github.com/wharton/chef-unzip.git
